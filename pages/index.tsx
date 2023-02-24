@@ -121,7 +121,7 @@ export default function Home() {
           />
         </div>
         <button
-          className="mt-4 w-full bg-sky-200 hover:bg-sky-300 px-3 py-2 rounded-lg text-sky-800"
+          className="mt-8 w-full bg-sky-200 hover:bg-sky-300 px-3 py-2 rounded-lg text-sky-800"
           type="submit">
           Submit
         </button>
